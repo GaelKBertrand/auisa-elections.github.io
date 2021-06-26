@@ -1,3 +1,3 @@
 # auisa-elections.github.io
 
-# easy access: auisaelections.me
+# easy access: www.auisaelections.me
